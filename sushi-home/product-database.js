@@ -1,5 +1,4 @@
-module.exports =
-  {
+module.exports = {
     id_product: "718",
     name: "Mangue fra\u00eeche",
     customer_group: ["3", "1", "2"],
@@ -10487,5 +10486,4 @@ module.exports =
         legend: ""
       }
     ]
-  }
-;
+  };
